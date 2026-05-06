@@ -17,7 +17,7 @@ Predicting passenger survival using exploratory data analysis, feature engineeri
 5. **Modeling** — 5-fold cross-validation, model comparison, hyperparameter tuning
 
 ## Tech Stack
-`Python` `pandas` `numpy` `matplotlib` `seaborn` `scikit-learn` `XGBoost`
+`Python` `pandas` `numpy` `matplotlib` `scikit-learn` `XGBoost`
 
 ## Data
 Dataset from [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic).
