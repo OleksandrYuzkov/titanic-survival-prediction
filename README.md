@@ -21,4 +21,4 @@ Predicting passenger survival using exploratory data analysis, feature engineeri
 
 ## Data
 Dataset from [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic).
-Download `train.csv` and `test.csv` and place them in the root folder.
+Download `train.csv` and place them in the root folder.
